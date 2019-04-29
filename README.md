@@ -1,4 +1,4 @@
-# NgKamla
+# A prortfolio website Template built on Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
